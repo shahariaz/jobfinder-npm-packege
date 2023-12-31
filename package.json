@@ -22,7 +22,7 @@
   "author": "shahariaz",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/shahariaz/jobfinder-npm-packege.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
